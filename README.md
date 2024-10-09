@@ -1,7 +1,3 @@
-Here's a README description for the QR code generator and scanner based on the provided images:
-
----
-
 # QR Code Generator and Scanner
 
 This project provides two functionalities in separate GUI applications built using **Tkinter** and **ttkinter**:
@@ -45,12 +41,4 @@ pip install tkinter pillow pyzbar
 
 2. **QR Code Generator**:
     - Run the `qr_code_generator.py` script.
-    - Enter a title and description, then generate and download the QR code.
 
-## Future Enhancements
-- Add support for scanning multiple QR codes in a single image.
-- Improve the UI/UX with more themes and styles.
-
----
-
-Feel free to adjust the paths of the images or descriptions based on your specific project setup.
