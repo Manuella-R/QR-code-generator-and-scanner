@@ -12,7 +12,7 @@ This project provides two functionalities in separate GUI applications built usi
 - **Clear Interface**: The GUI is clean, with a blue button allowing users to upload images, and a description of the scanned data is shown below.
   
 Example:
-![QR Code Scanner](./path-to-QR-Code-Scanner.png)
+![QR Code Scanner 10_9_2024 10_21_29 PM](https://github.com/user-attachments/assets/73178b54-93d8-4b81-a416-571fc07375c9)
 
 ### 2. QR Code Generator
 - **Enter QR Code Title and Description**: Users input a title and a description that will be encoded in the QR code.
@@ -21,7 +21,8 @@ Example:
 - **Simple Interface**: The layout is straightforward, with fields for input, a “Generate QR Code” button, and a preview of the generated QR code, followed by a download option.
 
 Example:
-![QR Code Generator](./path-to-QR-Code-Generator.png)
+![QR Code Generator 10_9_2024 10_20_50 PM](https://github.com/user-attachments/assets/9e0954ff-29d3-4071-b187-3aca189bf8a5)
+
 
 ## Requirements
 - Python 3.x
