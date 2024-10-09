@@ -1,0 +1,1 @@
+root.configure(bg="pink")
